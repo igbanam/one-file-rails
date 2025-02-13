@@ -31,7 +31,7 @@ resource.
 
 Running one-file-rails is simple. 
 
-1. Put this file in some directory
+1. Clone
 1. Run `rackup -p [PORT]`
     1. You should have the `rackup` gem installed
 
