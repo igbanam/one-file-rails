@@ -1,4 +1,9 @@
-# One File Rails
+<p align="center">
+    <img height="300px" src="https://github.com/user-attachments/assets/01bcb959-b688-465b-b7e9-f6c3e26a6771" style="border: 2px solid grey;">
+    <br>
+</p>
+
+<h1 align="center">One File Rails</h1>
 
 This is a truly minimalist Rails application which has every thing in one
 file. Rails is a one-person framework which allows you move fast from zero to
